@@ -1,0 +1,15 @@
+{
+"main_folder":"c:\\CheckInibition\\",
+"report_folder": "Relatorios",
+"branch_folder": "",
+"maps_folder":"Mapas",
+"downloads":"C:\\Users\\a239727\\Downloads\\",
+"url":"http://10.245.207.50:8080/BrowserWeb/",
+"url2":"http://10.245.207.50:8080/BrowserWeb/",
+"input_username":"A221320",
+"input_key_name":"t24_acc_opening",
+"auth_username":"t24_ci_auth_dev",
+"auth_key_name":"HELJON",
+"report_email":"januario.cipriano@standardbank.co.mz",
+"report_cc":"januario.cipriano@standardbank.co.mz"
+}

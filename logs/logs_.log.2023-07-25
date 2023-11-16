@@ -1,0 +1,120 @@
+2023-07-25 08:14:02,297 | Corporate Account Opening | INFO | init_t24:34 | Iniciando o T24...
+2023-07-25 08:14:09,980 | Corporate Account Opening | INFO | init_t24:48 | T24 iniciado com sucesso!
+2023-07-25 08:14:09,981 | Corporate Account Opening | INFO | create_customer:81 | Iniciando a criação do cliente: SALVADOR OZIAS MUCOVA
+2023-07-25 08:14:37,354 | Corporate Account Opening | INFO | create_customer:199 | Cliente criado com o CIF: 756251
+2023-07-25 08:14:39,928 | Corporate Account Opening | INFO | init_t24:34 | Iniciando o T24...
+2023-07-25 08:14:45,854 | Corporate Account Opening | INFO | init_t24:48 | T24 iniciado com sucesso!
+2023-07-25 08:14:49,937 | Corporate Account Opening | INFO | create_customer:81 | Iniciando a criação do cliente: ERNESTO DANIEL LANGA
+2023-07-25 08:15:11,188 | Corporate Account Opening | INFO | create_customer:199 | Cliente criado com o CIF: 756252
+2023-07-25 08:20:10,697 | Corporate Account Opening | INFO | init_t24:34 | Iniciando o T24...
+2023-07-25 08:20:16,492 | Corporate Account Opening | INFO | init_t24:48 | T24 iniciado com sucesso!
+2023-07-25 08:20:16,492 | Corporate Account Opening | INFO | create_customer:81 | Iniciando a criação do cliente: SALVADOR OZIAS MUCOVA
+2023-07-25 08:20:36,020 | Corporate Account Opening | INFO | create_customer:199 | Cliente criado com o CIF: 756254
+2023-07-25 08:20:38,538 | Corporate Account Opening | INFO | init_t24:34 | Iniciando o T24...
+2023-07-25 08:20:44,279 | Corporate Account Opening | INFO | init_t24:48 | T24 iniciado com sucesso!
+2023-07-25 08:20:48,370 | Corporate Account Opening | INFO | create_customer:81 | Iniciando a criação do cliente: ERNESTO DANIEL LANGA
+2023-07-25 08:21:09,274 | Corporate Account Opening | INFO | create_customer:199 | Cliente criado com o CIF: 756255
+2023-07-25 08:30:35,004 | Corporate Account Opening | INFO | init_t24:34 | Iniciando o T24...
+2023-07-25 08:30:40,563 | Corporate Account Opening | INFO | init_t24:48 | T24 iniciado com sucesso!
+2023-07-25 08:30:40,564 | Corporate Account Opening | INFO | create_customer:81 | Iniciando a criação do cliente: SALVADOR OZIAS MUCOVA
+2023-07-25 08:31:00,114 | Corporate Account Opening | INFO | create_customer:199 | Cliente criado com o CIF: 756257
+2023-07-25 08:31:02,802 | Corporate Account Opening | INFO | init_t24:34 | Iniciando o T24...
+2023-07-25 08:31:11,299 | Corporate Account Opening | INFO | init_t24:48 | T24 iniciado com sucesso!
+2023-07-25 08:31:15,372 | Corporate Account Opening | INFO | create_customer:81 | Iniciando a criação do cliente: ERNESTO DANIEL LANGA
+2023-07-25 08:31:35,582 | Corporate Account Opening | INFO | create_customer:199 | Cliente criado com o CIF: 756258
+2023-07-25 08:36:34,634 | Corporate Account Opening | INFO | init_t24:34 | Iniciando o T24...
+2023-07-25 08:36:40,068 | Corporate Account Opening | INFO | init_t24:48 | T24 iniciado com sucesso!
+2023-07-25 08:36:40,068 | Corporate Account Opening | INFO | create_customer:81 | Iniciando a criação do cliente: SALVADOR OZIAS MUCOVA
+2023-07-25 08:37:01,030 | Corporate Account Opening | INFO | create_customer:199 | Cliente criado com o CIF: 756260
+2023-07-25 08:37:03,520 | Corporate Account Opening | INFO | init_t24:34 | Iniciando o T24...
+2023-07-25 08:37:09,690 | Corporate Account Opening | INFO | init_t24:48 | T24 iniciado com sucesso!
+2023-07-25 08:37:13,777 | Corporate Account Opening | INFO | create_customer:81 | Iniciando a criação do cliente: ERNESTO DANIEL LANGA
+2023-07-25 08:37:34,264 | Corporate Account Opening | INFO | create_customer:199 | Cliente criado com o CIF: 756261
+2023-07-25 08:43:51,588 | Corporate Account Opening | INFO | init_t24:34 | Iniciando o T24...
+2023-07-25 08:43:57,503 | Corporate Account Opening | INFO | init_t24:48 | T24 iniciado com sucesso!
+2023-07-25 08:43:57,503 | Corporate Account Opening | INFO | create_customer:81 | Iniciando a criação do cliente: SALVADOR OZIAS MUCOVA
+2023-07-25 08:44:19,675 | Corporate Account Opening | INFO | create_customer:199 | Cliente criado com o CIF: 756263
+2023-07-25 08:44:22,414 | Corporate Account Opening | INFO | init_t24:34 | Iniciando o T24...
+2023-07-25 08:44:31,784 | Corporate Account Opening | INFO | init_t24:48 | T24 iniciado com sucesso!
+2023-07-25 08:44:35,869 | Corporate Account Opening | INFO | create_customer:81 | Iniciando a criação do cliente: ERNESTO DANIEL LANGA
+2023-07-25 08:44:58,057 | Corporate Account Opening | INFO | create_customer:199 | Cliente criado com o CIF: 756264
+2023-07-25 08:50:37,612 | Corporate Account Opening | INFO | init_t24:34 | Iniciando o T24...
+2023-07-25 08:50:42,660 | Corporate Account Opening | INFO | init_t24:48 | T24 iniciado com sucesso!
+2023-07-25 08:50:42,661 | Corporate Account Opening | INFO | create_customer:81 | Iniciando a criação do cliente: SALVADOR OZIAS MUCOVA
+2023-07-25 08:51:02,460 | Corporate Account Opening | INFO | create_customer:199 | Cliente criado com o CIF: 756266
+2023-07-25 08:51:05,000 | Corporate Account Opening | INFO | init_t24:34 | Iniciando o T24...
+2023-07-25 08:51:10,097 | Corporate Account Opening | INFO | init_t24:48 | T24 iniciado com sucesso!
+2023-07-25 08:51:14,186 | Corporate Account Opening | INFO | create_customer:81 | Iniciando a criação do cliente: ERNESTO DANIEL LANGA
+2023-07-25 08:51:35,519 | Corporate Account Opening | INFO | create_customer:199 | Cliente criado com o CIF: 756267
+2023-07-25 08:57:49,484 | Corporate Account Opening | INFO | init_t24:34 | Iniciando o T24...
+2023-07-25 08:57:58,090 | Corporate Account Opening | INFO | init_t24:48 | T24 iniciado com sucesso!
+2023-07-25 08:57:58,091 | Corporate Account Opening | INFO | create_customer:81 | Iniciando a criação do cliente: SALVADOR OZIAS MUCOVA
+2023-07-25 08:58:19,668 | Corporate Account Opening | INFO | create_customer:199 | Cliente criado com o CIF: 756269
+2023-07-25 08:58:22,163 | Corporate Account Opening | INFO | init_t24:34 | Iniciando o T24...
+2023-07-25 08:58:27,691 | Corporate Account Opening | INFO | init_t24:48 | T24 iniciado com sucesso!
+2023-07-25 08:58:31,770 | Corporate Account Opening | INFO | create_customer:81 | Iniciando a criação do cliente: ERNESTO DANIEL LANGA
+2023-07-25 08:58:52,697 | Corporate Account Opening | INFO | create_customer:199 | Cliente criado com o CIF: 756270
+2023-07-25 09:26:28,910 | Corporate Account Opening | INFO | init_t24:34 | Iniciando o T24...
+2023-07-25 09:26:37,673 | Corporate Account Opening | INFO | init_t24:48 | T24 iniciado com sucesso!
+2023-07-25 09:26:37,674 | Corporate Account Opening | INFO | create_customer:81 | Iniciando a criação do cliente: SALVADOR OZIAS MUCOVA
+2023-07-25 09:26:57,785 | Corporate Account Opening | INFO | create_customer:199 | Cliente criado com o CIF: 756272
+2023-07-25 09:27:00,264 | Corporate Account Opening | INFO | init_t24:34 | Iniciando o T24...
+2023-07-25 09:27:10,641 | Corporate Account Opening | INFO | init_t24:48 | T24 iniciado com sucesso!
+2023-07-25 09:27:14,729 | Corporate Account Opening | INFO | create_customer:81 | Iniciando a criação do cliente: ERNESTO DANIEL LANGA
+2023-07-25 09:27:36,387 | Corporate Account Opening | INFO | create_customer:199 | Cliente criado com o CIF: 756273
+2023-07-25 09:33:00,978 | Corporate Account Opening | INFO | init_t24:34 | Iniciando o T24...
+2023-07-25 09:33:12,743 | Corporate Account Opening | INFO | init_t24:48 | T24 iniciado com sucesso!
+2023-07-25 09:33:12,743 | Corporate Account Opening | INFO | create_customer:81 | Iniciando a criação do cliente: SALVADOR OZIAS MUCOVA
+2023-07-25 09:33:32,771 | Corporate Account Opening | INFO | create_customer:199 | Cliente criado com o CIF: 756275
+2023-07-25 09:33:35,248 | Corporate Account Opening | INFO | init_t24:34 | Iniciando o T24...
+2023-07-25 09:33:45,243 | Corporate Account Opening | INFO | init_t24:48 | T24 iniciado com sucesso!
+2023-07-25 09:33:49,328 | Corporate Account Opening | INFO | create_customer:81 | Iniciando a criação do cliente: ERNESTO DANIEL LANGA
+2023-07-25 09:34:11,115 | Corporate Account Opening | INFO | create_customer:199 | Cliente criado com o CIF: 756276
+2023-07-25 09:44:07,435 | Corporate Account Opening | INFO | init_t24:34 | Iniciando o T24...
+2023-07-25 09:44:15,473 | Corporate Account Opening | INFO | init_t24:48 | T24 iniciado com sucesso!
+2023-07-25 09:44:15,474 | Corporate Account Opening | INFO | create_customer:81 | Iniciando a criação do cliente: SALVADOR OZIAS MUCOVA
+2023-07-25 09:44:35,828 | Corporate Account Opening | INFO | create_customer:199 | Cliente criado com o CIF: 756278
+2023-07-25 09:44:38,335 | Corporate Account Opening | INFO | init_t24:34 | Iniciando o T24...
+2023-07-25 09:44:43,809 | Corporate Account Opening | INFO | init_t24:48 | T24 iniciado com sucesso!
+2023-07-25 09:44:47,879 | Corporate Account Opening | INFO | create_customer:81 | Iniciando a criação do cliente: ERNESTO DANIEL LANGA
+2023-07-25 09:45:09,169 | Corporate Account Opening | INFO | create_customer:199 | Cliente criado com o CIF: 756279
+2023-07-25 09:58:19,447 | Corporate Account Opening | INFO | init_t24:34 | Iniciando o T24...
+2023-07-25 09:58:24,494 | Corporate Account Opening | INFO | init_t24:48 | T24 iniciado com sucesso!
+2023-07-25 09:58:24,495 | Corporate Account Opening | INFO | create_customer:81 | Iniciando a criação do cliente: SALVADOR OZIAS MUCOVA
+2023-07-25 09:58:42,893 | Corporate Account Opening | INFO | create_customer:199 | Cliente criado com o CIF: 756281
+2023-07-25 09:58:45,303 | Corporate Account Opening | INFO | init_t24:34 | Iniciando o T24...
+2023-07-25 09:58:50,361 | Corporate Account Opening | INFO | init_t24:48 | T24 iniciado com sucesso!
+2023-07-25 09:58:54,441 | Corporate Account Opening | INFO | create_customer:81 | Iniciando a criação do cliente: ERNESTO DANIEL LANGA
+2023-07-25 09:59:12,662 | Corporate Account Opening | INFO | create_customer:199 | Cliente criado com o CIF: 756282
+2023-07-25 10:22:06,818 | Corporate Account Opening | INFO | init_t24:34 | Iniciando o T24...
+2023-07-25 10:22:13,558 | Corporate Account Opening | INFO | init_t24:48 | T24 iniciado com sucesso!
+2023-07-25 10:22:13,558 | Corporate Account Opening | INFO | create_customer:81 | Iniciando a criação do cliente: SALVADOR OZIAS MUCOVA
+2023-07-25 10:22:32,115 | Corporate Account Opening | INFO | create_customer:199 | Cliente criado com o CIF: 756284
+2023-07-25 10:22:34,500 | Corporate Account Opening | INFO | init_t24:34 | Iniciando o T24...
+2023-07-25 10:22:39,051 | Corporate Account Opening | INFO | init_t24:48 | T24 iniciado com sucesso!
+2023-07-25 10:22:43,137 | Corporate Account Opening | INFO | create_customer:81 | Iniciando a criação do cliente: ERNESTO DANIEL LANGA
+2023-07-25 10:23:03,866 | Corporate Account Opening | INFO | create_customer:199 | Cliente criado com o CIF: 756285
+2023-07-25 10:29:26,010 | Corporate Account Opening | INFO | init_t24:34 | Iniciando o T24...
+2023-07-25 10:29:30,955 | Corporate Account Opening | INFO | init_t24:48 | T24 iniciado com sucesso!
+2023-07-25 10:29:30,956 | Corporate Account Opening | INFO | create_customer:81 | Iniciando a criação do cliente: SALVADOR OZIAS MUCOVA
+2023-07-25 10:29:49,252 | Corporate Account Opening | INFO | create_customer:199 | Cliente criado com o CIF: 756287
+2023-07-25 10:29:51,644 | Corporate Account Opening | INFO | init_t24:34 | Iniciando o T24...
+2023-07-25 10:29:56,680 | Corporate Account Opening | INFO | init_t24:48 | T24 iniciado com sucesso!
+2023-07-25 10:30:00,753 | Corporate Account Opening | INFO | create_customer:81 | Iniciando a criação do cliente: ERNESTO DANIEL LANGA
+2023-07-25 10:30:19,103 | Corporate Account Opening | INFO | create_customer:199 | Cliente criado com o CIF: 756288
+2023-07-25 10:34:40,651 | Corporate Account Opening | INFO | init_t24:34 | Iniciando o T24...
+2023-07-25 10:34:46,729 | Corporate Account Opening | INFO | init_t24:48 | T24 iniciado com sucesso!
+2023-07-25 10:34:46,729 | Corporate Account Opening | INFO | create_customer:81 | Iniciando a criação do cliente: SALVADOR OZIAS MUCOVA
+2023-07-25 10:35:05,522 | Corporate Account Opening | INFO | create_customer:199 | Cliente criado com o CIF: 756290
+2023-07-25 10:35:07,974 | Corporate Account Opening | INFO | init_t24:34 | Iniciando o T24...
+2023-07-25 10:35:14,418 | Corporate Account Opening | INFO | init_t24:48 | T24 iniciado com sucesso!
+2023-07-25 10:35:18,512 | Corporate Account Opening | INFO | create_customer:81 | Iniciando a criação do cliente: ERNESTO DANIEL LANGA
+2023-07-25 10:35:41,298 | Corporate Account Opening | INFO | create_customer:199 | Cliente criado com o CIF: 756291
+2023-07-25 10:40:36,083 | Corporate Account Opening | INFO | init_t24:34 | Iniciando o T24...
+2023-07-25 10:40:42,207 | Corporate Account Opening | INFO | init_t24:48 | T24 iniciado com sucesso!
+2023-07-25 10:40:42,207 | Corporate Account Opening | INFO | create_customer:81 | Iniciando a criação do cliente: SALVADOR OZIAS MUCOVA
+2023-07-25 10:41:03,043 | Corporate Account Opening | INFO | create_customer:199 | Cliente criado com o CIF: 756293
+2023-07-25 10:41:05,473 | Corporate Account Opening | INFO | init_t24:34 | Iniciando o T24...
+2023-07-25 10:41:11,393 | Corporate Account Opening | INFO | init_t24:48 | T24 iniciado com sucesso!
+2023-07-25 10:41:15,480 | Corporate Account Opening | INFO | create_customer:81 | Iniciando a criação do cliente: ERNESTO DANIEL LANGA
+2023-07-25 10:41:39,470 | Corporate Account Opening | INFO | create_customer:199 | Cliente criado com o CIF: 756294
